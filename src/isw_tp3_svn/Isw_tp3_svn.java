@@ -10,7 +10,7 @@ public class Isw_tp3_svn {
         System.out.println("Tercer cambio desde la pc de Javier");
         System.out.println("Nuevo Cambio desde la pc del Maxi");
         System.out.println("hola soy jero");
-        System.out.println("pepippppppppp");
+        System.out.println("234234");
         clase1 c = new clase1();
         c.dividemal();
     }    
